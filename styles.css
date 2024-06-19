@@ -34,14 +34,14 @@ body {
 .circle {
   width: 80px;
   height: 80px;
-  border: 5px solid #dc3545;
+  border: 5px solid #922d27;
   border-radius: 50%;
   animation: rotate 2s infinite linear;
 }
 .rolling-item {
   width: 10px;
   height: 10px;
-  background-color: #dc3545;
+  background-color: #922d27;
   border-radius: 50%;
   position: absolute;
   top: 35px;
